@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Zheng Yew
 - Undergraduate Engineering Systems at Singapore University of Technology and Design
+- I am passionate towards data science, web programming
+
 
 <!--
 **wzy1337/wzy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
