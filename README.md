@@ -2,6 +2,7 @@
 - Undergraduate Engineering Systems at Singapore University of Technology and Design
 - I am passionate towards data science, web programming
 - Statistics has always been a interesting field within Mathematics that I wish to develop my skills in order to make meaningful insights
+- 🌱 I’m currently working on a project to analyse past Formula 1 Data using Python
 
 
 <!--
